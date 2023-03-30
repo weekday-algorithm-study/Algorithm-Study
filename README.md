@@ -61,7 +61,9 @@
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
 | --- | --- | --- | --- |
 | 2023-03-29 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | [문제 풀이](./baekjoon/230329) |
-| 2023-03-30 |  |  |  |
+| 2023-03-30 | [세 용액](https://www.acmicpc.net/problem/2473) | [RGB거리](https://www.acmicpc.net/problem/1149) | [문제 풀이](./baekjoon/230330) |
+| 2023-03-31 |  |  |  |
+|  |  |  |  |
 |  |  |  |  |
 
 </div>
