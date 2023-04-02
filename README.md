@@ -9,7 +9,7 @@
 ### **시간**
 
 - 월요일 ~ 금요일 10시 (온라인)
-- 문제 제출 기한은 당일 24시까지
+- 풀이 제출 기한은 다음 스터디 1시간 전까지
 
 ### **진행 방식**
 
@@ -18,10 +18,16 @@
 
 ### **풀이 방식**
 
+a. 자율적으로 진행
+
+b. 코드 주석 처리는 필수
+
+c. 풀이
+
 - 문제 설명
 - 접근 방식
 - 문제 풀이
-- 주석처리
+- 주석 처리
     - 변수들의 의미를 적기
     - 함수들 입력, 출력, 시간복잡도 설명
     - 줄마다 문장으로 설명
@@ -35,7 +41,6 @@
 
 ### **PR 규칙 및 Commit Message 규칙**
 
-- 영문 이름으로 branch 생성해서 main에 merge
 - Pull Request
     - [날짜] 이름
 - Commit Message
@@ -62,8 +67,8 @@
 | --- | --- | --- | --- |
 | 2023-03-29 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | [문제 풀이](./baekjoon/230329) |
 | 2023-03-30 | [세 용액](https://www.acmicpc.net/problem/2473) | [RGB거리](https://www.acmicpc.net/problem/1149) | [문제 풀이](./baekjoon/230330) |
-| 2023-03-31 |  |  |  |
-|  |  |  |  |
+| 2023-03-31 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [설탕 배달](https://www.acmicpc.net/problem/2839) | [문제 풀이](./baekjoon/230331) |
+| 2023-04-03 | [MST 게임](https://www.acmicpc.net/problem/16202) | [Z](https://www.acmicpc.net/problem/1074) |  |
 |  |  |  |  |
 
 </div>
