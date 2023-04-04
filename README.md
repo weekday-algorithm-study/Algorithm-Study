@@ -69,8 +69,8 @@ c. 풀이
 | 2023-03-30 | [세 용액](https://www.acmicpc.net/problem/2473) | [RGB거리](https://www.acmicpc.net/problem/1149) | [문제 풀이](./baekjoon/230330) |
 | 2023-03-31 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [설탕 배달](https://www.acmicpc.net/problem/2839) | [문제 풀이](./baekjoon/230331) |
 | 2023-04-03 | [MST 게임](https://www.acmicpc.net/problem/16202) | [Z](https://www.acmicpc.net/problem/1074) | [문제 풀이](./baekjoon/230403) |
-| 2023-04-04 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [세 수 고르기](https://www.acmicpc.net/problem/1503) |  |
-|  |  |  |  |
+| 2023-04-04 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [세 수 고르기](https://www.acmicpc.net/problem/1503) | [문제 풀이](./baekjoon/230404) |
+| 2023-04-05 | [나무 위의 빗물](https://www.acmicpc.net/problem/17073) | [기타콘서트](https://www.acmicpc.net/problem/1497) |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
