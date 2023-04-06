@@ -71,8 +71,8 @@ c. 풀이
 | 2023-04-03 | [MST 게임](https://www.acmicpc.net/problem/16202) | [Z](https://www.acmicpc.net/problem/1074) | [문제 풀이](./baekjoon/230403) |
 | 2023-04-04 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [세 수 고르기](https://www.acmicpc.net/problem/1503) | [문제 풀이](./baekjoon/230404) |
 | 2023-04-05 | [나무 위의 빗물](https://www.acmicpc.net/problem/17073) | [기타콘서트](https://www.acmicpc.net/problem/1497) | [문제 풀이](./baekjoon/230405) |
-| 2023-04-06 | [뱀](https://www.acmicpc.net/problem/3190) | [N과 M (3)](https://www.acmicpc.net/problem/15651)|  |
-|  |  |  |  |
+| 2023-04-06 | [뱀](https://www.acmicpc.net/problem/3190) | [N과 M (3)](https://www.acmicpc.net/problem/15651) | [문제 풀이](./baekjoon/230406) |
+| 2023-04-07 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | [뒤집기 II](https://www.acmicpc.net/problem/1455) |  |
 |  |  |  |  |
 
 </div>
