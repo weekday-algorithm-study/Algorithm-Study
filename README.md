@@ -60,7 +60,7 @@ c. 풀이
 ## **진행**
 
 <details>
-<summary> 2023-03-29 ~ </summary>
+<summary> 2023-03-29 ~ 2023-04-11</summary>
 <div markdown="1">
 
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
@@ -72,11 +72,22 @@ c. 풀이
 | 2023-04-04 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | [세 수 고르기](https://www.acmicpc.net/problem/1503) | [문제 풀이](./baekjoon/230404) |
 | 2023-04-05 | [나무 위의 빗물](https://www.acmicpc.net/problem/17073) | [기타콘서트](https://www.acmicpc.net/problem/1497) | [문제 풀이](./baekjoon/230405) |
 | 2023-04-06 | [뱀](https://www.acmicpc.net/problem/3190) | [N과 M (3)](https://www.acmicpc.net/problem/15651) | [문제 풀이](./baekjoon/230406) |
-| 2023-04-07 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | [뒤집기 II](https://www.acmicpc.net/problem/1455) |  |
+| 2023-04-07 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | [뒤집기 II](https://www.acmicpc.net/problem/1455) | [문제 풀이](./baekjoon/230407) |
+| 2023-04-10 | [소풍](https://www.acmicpc.net/problem/2026) | [유기농 배추](https://www.acmicpc.net/problem/1012) |  |
 |  |  |  |  |
 
 </div>
 </details>
 
     
-    
+<details>
+<summary> 2023-04-12 ~ </summary>
+<div markdown="1">
+
+| 날짜 | 문제1 | 문제2 | 문제 풀이 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+
+</div>
+</details>
