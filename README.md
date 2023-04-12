@@ -74,7 +74,7 @@ c. 풀이
 | 2023-04-06 | [뱀](https://www.acmicpc.net/problem/3190) | [N과 M (3)](https://www.acmicpc.net/problem/15651) | [문제 풀이](./baekjoon/230406) |
 | 2023-04-07 | [두 배열의 합](https://www.acmicpc.net/problem/2143) | [뒤집기 II](https://www.acmicpc.net/problem/1455) | [문제 풀이](./baekjoon/230407) |
 | 2023-04-10 | [소풍](https://www.acmicpc.net/problem/2026) | [유기농 배추](https://www.acmicpc.net/problem/1012) | [문제 풀이](./baekjoon/230410) |
-| 2023-04-11 | [LCS 3](https://www.acmicpc.net/problem/1958) | [블로그](https://www.acmicpc.net/problem/21921) |  |
+| 2023-04-11 | [LCS 3](https://www.acmicpc.net/problem/1958) | [블로그](https://www.acmicpc.net/problem/21921) | [문제 풀이](./baekjoon/230411) |
 
 </div>
 </details>
@@ -86,8 +86,8 @@ c. 풀이
 
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
+| 2023-04-12 | [동전 분배](https://www.acmicpc.net/problem/1943) | [블로그2](https://www.acmicpc.net/problem/20365) | [문제 풀이](./baekjoon/230412) |
+| 2023-04-13 | [십자가 2개 놓기](https://www.acmicpc.net/problem/17085) | [파일 정리](https://www.acmicpc.net/problem/20291) |  |
 |  |  |  |  |
 |  |  |  |  |
 
