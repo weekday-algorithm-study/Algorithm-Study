@@ -87,9 +87,14 @@ c. 풀이
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
 | --- | --- | --- | --- |
 | 2023-04-12 | [동전 분배](https://www.acmicpc.net/problem/1943) | [블로그2](https://www.acmicpc.net/problem/20365) | [문제 풀이](./baekjoon/230412) |
-| 2023-04-13 | [십자가 2개 놓기](https://www.acmicpc.net/problem/17085) | [파일 정리](https://www.acmicpc.net/problem/20291) |  |
+| 2023-04-13 | [십자가 2개 놓기](https://www.acmicpc.net/problem/17085) | [파일 정리](https://www.acmicpc.net/problem/20291) | [문제 풀이](./baekjoon/230413) |
+|  2023-04-14 | [중량제한](https://www.acmicpc.net/problem/1939) | [상자의 균형](https://www.acmicpc.net/problem/20116) |  |
 |  |  |  |  |
 |  |  |  |  |
-
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 </div>
 </details>
