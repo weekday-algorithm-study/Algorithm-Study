@@ -90,8 +90,8 @@ c. 풀이
 | 2023-04-13 | [십자가 2개 놓기](https://www.acmicpc.net/problem/17085) | [파일 정리](https://www.acmicpc.net/problem/20291) | [문제 풀이](./baekjoon/230413) |
 |  2023-04-14 | [중량제한](https://www.acmicpc.net/problem/1939) | [상자의 균형](https://www.acmicpc.net/problem/20116) | [문제 풀이](./baekjoon/230414) |
 | 2023-04-17 | [집합의 표현](https://www.acmicpc.net/problem/1717) | [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) | [문제 풀이](./baekjoon/230417) |
-| 2023-04-18 | []() | []() |  |
-|  |  |  |  |
+| 2023-04-18 | [1학년](https://www.acmicpc.net/problem/5557) | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) | [문제 풀이](./baekjoon/230418) |
+| 2023-04-19 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
