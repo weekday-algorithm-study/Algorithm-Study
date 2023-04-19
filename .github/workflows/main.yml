@@ -19,6 +19,6 @@ jobs:
           pip install pytz
       - name: Run Crawler
         run: |
-          python check.py 
+          python .github/workflows/check.py 
         env:
           MESSAGE_URL: ${{ secrets.MESSAGE_URL }}
