@@ -9,12 +9,11 @@
 ### **시간**
 
 - 월요일 ~ 금요일 10시 (온라인)
-- 풀이 제출 기한은 다음 스터디 1시간 전까지
 
 ### **진행 방식**
 
 - 하루에 백준 Gold 1문제, Sliver 1문제
-- Gold는 1시간 20분, Sliver는 40분 동안 문제 풀기
+- 풀이 제출 기한은 일주일 이후까지
 
 ### **풀이 방식**
 
@@ -22,7 +21,7 @@ a. 자율적으로 진행
 
 b. 코드 주석 처리는 필수
 
-c. 풀이
+c. 풀이 예시
 
 - 문제 설명
 - 접근 방식
@@ -36,8 +35,6 @@ c. 풀이
 - 공간 복잡도
     - 사용한 자료구조마다 계산하고 설명
 - 어려웠던 부분 & 해결 과정
-
-    [예시](./example.md)
 
 ### **PR 규칙 및 Commit Message 규칙**
 
@@ -91,8 +88,8 @@ c. 풀이
 |  2023-04-14 | [중량제한](https://www.acmicpc.net/problem/1939) | [상자의 균형](https://www.acmicpc.net/problem/20116) | [문제 풀이](./baekjoon/230414) |
 | 2023-04-17 | [집합의 표현](https://www.acmicpc.net/problem/1717) | [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) | [문제 풀이](./baekjoon/230417) |
 | 2023-04-18 | [1학년](https://www.acmicpc.net/problem/5557) | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) | [문제 풀이](./baekjoon/230418) |
-| 2023-04-19 |  |  |  |
-|  |  |  |  |
+| 2023-04-19 | [떡장수와 호랑이](https://www.acmicpc.net/problem/16432) | [평행 우주](https://www.acmicpc.net/problem/17451) | [문제 풀이](./baekjoon/230419) |
+| 2023-04-20 |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
