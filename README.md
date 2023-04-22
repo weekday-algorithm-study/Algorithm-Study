@@ -57,7 +57,7 @@ c. 풀이 예시
 ## **진행**
 
 <details>
-<summary> 2023-03-29 ~ 2023-04-11</summary>
+<summary> 2023-03-29 ~ 2023-04-11 </summary>
 <div markdown="1">
 
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
@@ -78,7 +78,7 @@ c. 풀이 예시
 
     
 <details>
-<summary> 2023-04-12 ~ </summary>
+<summary> 2023-04-12 ~ 2023-04-25 </summary>
 <div markdown="1">
 
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
@@ -89,9 +89,25 @@ c. 풀이 예시
 | 2023-04-17 | [집합의 표현](https://www.acmicpc.net/problem/1717) | [진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484) | [문제 풀이](./baekjoon/230417) |
 | 2023-04-18 | [1학년](https://www.acmicpc.net/problem/5557) | [별 찍기 - 19](https://www.acmicpc.net/problem/10994) | [문제 풀이](./baekjoon/230418) |
 | 2023-04-19 | [떡장수와 호랑이](https://www.acmicpc.net/problem/16432) | [평행 우주](https://www.acmicpc.net/problem/17451) | [문제 풀이](./baekjoon/230419) |
-| 2023-04-20 |  |  |  |
+| 2023-04-20 | [중첩 집합 모델](https://www.acmicpc.net/problem/19641) | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | [문제 풀이](./baekjoon/230420) |
+| 2023-04-21 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) | [문제 풀이](./baekjoon/230421) |
+| 2023-04-24 |  |  |  |
+| 2023-04-25 |  |  |  |
+
+</div>
+</details>
+
+
+<details>
+<summary> 2023-04-26 ~ </summary>
+<div markdown="1">
+
+| 날짜 | 문제1 | 문제2 | 문제 풀이 |
+| --- | --- | --- | --- |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+|  |  |  |  |
+
 </div>
 </details>
