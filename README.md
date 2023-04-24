@@ -91,7 +91,7 @@ c. 풀이 예시
 | 2023-04-19 | [떡장수와 호랑이](https://www.acmicpc.net/problem/16432) | [평행 우주](https://www.acmicpc.net/problem/17451) | [문제 풀이](./baekjoon/230419) |
 | 2023-04-20 | [중첩 집합 모델](https://www.acmicpc.net/problem/19641) | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) | [문제 풀이](./baekjoon/230420) |
 | 2023-04-21 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | [이건 꼭 풀어야 해!](https://www.acmicpc.net/problem/17390) | [문제 풀이](./baekjoon/230421) |
-| 2023-04-24 |  |  |  |
+| 2023-04-24 | [택배 배송](https://www.acmicpc.net/problem/5972) | [세 개의 소수 문제](https://www.acmicpc.net/problem/11502) | [문제 풀이](./baekjoon/230424) |
 | 2023-04-25 |  |  |  |
 
 </div>
