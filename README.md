@@ -104,10 +104,13 @@ c. 풀이 예시
 
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
 | --- | --- | --- | --- |
-| 2023-04-26 |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 2023-04-26 | [파티](https://www.acmicpc.net/problem/1238) | [두 개의 배열](https://www.acmicpc.net/problem/17124) | [문제 풀이](./baekjoon/230426) |
+| 2023-04-27 | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | [두 스티커](https://www.acmicpc.net/problem/16937) | [문제 풀이](./baekjoon/230427) |
+| 2023-04-28 | [ACM Craft](https://www.acmicpc.net/problem/1005) | [전공책](https://www.acmicpc.net/problem/16508) | [문제 풀이](./baekjoon/230428) |
+| 2023-05-01 | [수강 과목](https://www.acmicpc.net/problem/17845) | [N과 M (8)](https://www.acmicpc.net/problem/15657) | [문제 풀이](./baekjoon/230501) |
+| 2023-05-02 | [배열 돌리기 4](https://www.acmicpc.net/problem/17406) | [N과 M (7)](https://www.acmicpc.net/problem/15656) | [문제 풀이](./baekjoon/230502) |
+| 2023-05-03 | []() | []() |  |
+| 2023-05-04 | []() | []() |  |
 
 </div>
 </details>
