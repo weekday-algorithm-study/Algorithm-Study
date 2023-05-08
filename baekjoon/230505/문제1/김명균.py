@@ -9,19 +9,30 @@ input = sys.stdin.readline
 # 과수원 크기 입력
 n = int(input())
 
-# 사과나물 입력
-board = [list(map(int, input().split())) for _ in range(n)]
+# 누적합을 위한 2차월 배열 => ps[i][j] = [0,0] ~ [i][j]의 구간합
+ps = [[-1001] * (n+1) for _ in range(n+1)]
+
+# 구간합 구하기
+for i in range(1, n+1):
+    nums = list(map(int, input().split()))
+    for j in range(1, n+1):
+        ps[i][j] = ps[i][j-1] + ps[i-1][j] - ps[i-1][j-1] + nums[j-1]
 
 # 정답
-answer = -sys.maxsize
+answer = ps[0][0]
 
-# 크기 n인 정사각형의 총 이익
-temp = 0
-for i in range(n):
-    for j in range(n):
-        temp += board[i][j]
+for k in range(n):
+    for i in range(1, n-k+1):
+        for j in range(1, n-k+1):
+            temp = ps[i+k][j+k] - ps[i-1][j+k] - ps[i+k][j-1] + ps[i-1][j-1]
+            answer = max(answer, temp)
 
-answer = max(answer, temp)
+print(answer)
+
+
+
+
+
 
 
 
