@@ -113,7 +113,7 @@ c. 풀이 예시
 | 2023-05-04 | [불!](https://www.acmicpc.net/problem/4179) | [N과 M (4)](https://www.acmicpc.net/problem/15652) | [문제 풀이](./baekjoon/230504) |
 | 2023-05-05 | [사과나무](https://www.acmicpc.net/problem/20002) | [두 수의 합](https://www.acmicpc.net/problem/3273) | [문제 풀이](./baekjoon/230505) |
 | 2023-05-08 | [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | [바이러스](https://www.acmicpc.net/problem/2606) | [문제 풀이](./baekjoon/230508) |
-| 2023-05-09 | [좋은수열](https://www.acmicpc.net/problem/2661) | [계단 오르기](https://www.acmicpc.net/problem/2579) |  |
+| 2023-05-09 | [좋은수열](https://www.acmicpc.net/problem/2661) | [계단 오르기](https://www.acmicpc.net/problem/2579) | [문제 풀이](./baekjoon/230509) |
 
 </div>
 </details>
@@ -125,7 +125,9 @@ c. 풀이 예시
 
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
 | --- | --- | --- | --- |
-| 2023-05-10 | []() | []() |  |
+ 2023-05-10 | [줄세우기](https://www.acmicpc.net/problem/2631) | [예산](https://www.acmicpc.net/problem/2512) |  |
+| 2023-05-11 | []() | []() |  |
+| 2023-05-12 | []() | []() |  |
 
 </div>
 </details>
