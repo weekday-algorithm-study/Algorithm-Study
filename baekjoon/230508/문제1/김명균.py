@@ -1,0 +1,88 @@
+"""
+마법사 상어와 비바라기
+문제: https://www.acmicpc.net/problem/21610
+"""
+import sys
+
+input = sys.stdin.readline
+
+# 격자판 길이와 명령 수 입력받기
+n, m = map(int, input().split())
+
+# 격자판
+board = [list(map(int, input().split())) for _ in range(n)]
+
+# 명령 입력
+command = [list(map(int, input().split())) for _ in range(m)]
+
+# 구름 이동
+dx_ = (9, 0, -1, -1, -1, 0, 1, 1, 1)
+dy_ = (9, -1, -1, 0, 1, 1, 1, 0, -1)
+
+# 구름
+cloud1 = [(n-2, 0), (n-2, 1), (n-1, 0), (n-1, 1)]
+
+# 구름 이동 함수
+def moving(point, op, size):
+       x, y = point
+       nx = (x + dx_[op] * size) % n
+       ny = (y + dy_[op] * size) % n
+
+       return (nx, ny)
+
+
+def raining(cloud):
+       # 대각선 방향
+       dx = (1, 1, -1, -1)
+       dy = (1, -1, 1, -1)
+
+       for i, j in cloud:
+              board[i][j] += 1
+
+       for i, j in cloud:
+              for k in range(4):
+                     nx = i + dx[k]
+                     ny = j + dy[k]
+                     if 0<=nx<n and 0<=ny<n:
+                            if board[nx][ny] != 0:
+                                   board[i][j] += 1
+
+# 초기 비바라기 실행
+first_command = command[0]
+
+for e in range(4):
+       cloud1[e] = moving(cloud1[e], first_command[0], first_command[1])
+
+raining(cloud1)
+
+# 나머지 비바라기 실행
+for i in range(1, m):
+
+       cloud2 = []
+
+       # 구름 넣기
+       for r in range(n):
+              for c in range(n):
+                     if (r, c) not in cloud1 and  board[r][c] >= 2:
+                            board[r][c] -= 2
+                            cloud2.append(moving((r, c), command[i][0], command[i][1]))
+
+       raining(cloud2)
+       cloud1 = cloud2
+
+for r in range(n):
+       for c in range(n):
+              if (r,c) not in cloud1 and board[r][c] >= 2:
+                     board[r][c] -= 2
+
+ans = 0
+
+for i in range(n):
+       ans += sum(board[i])
+
+print(ans)
+
+
+
+
+
