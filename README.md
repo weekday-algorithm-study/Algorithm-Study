@@ -125,7 +125,7 @@ c. 풀이 예시
 
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
 | --- | --- | --- | --- |
- 2023-05-10 | [줄세우기](https://www.acmicpc.net/problem/2631) | [예산](https://www.acmicpc.net/problem/2512) |  |
+ 2023-05-10 | [줄세우기](https://www.acmicpc.net/problem/2631) | [예산](https://www.acmicpc.net/problem/2512) | [문제 풀이](./baekjoon/230510) |
 | 2023-05-11 | []() | []() |  |
 | 2023-05-12 | []() | []() |  |
 
