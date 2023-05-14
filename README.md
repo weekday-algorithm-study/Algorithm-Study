@@ -126,8 +126,10 @@ c. 풀이 예시
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
 | --- | --- | --- | --- |
  2023-05-10 | [줄세우기](https://www.acmicpc.net/problem/2631) | [예산](https://www.acmicpc.net/problem/2512) | [문제 풀이](./baekjoon/230510) |
-| 2023-05-11 | []() | []() |  |
-| 2023-05-12 | []() | []() |  |
+| 2023-05-11 | [돌다리 건너기](https://www.acmicpc.net/problem/2602) | [숫자 야구](https://www.acmicpc.net/problem/2503) | [문제 풀이](./baekjoon/230511) |
+| 2023-05-12 | [제곱수 찾기](https://www.acmicpc.net/problem/1025) | [감소하는 수](https://www.acmicpc.net/problem/1038) | [문제 풀이](./baekjoon/230512) |
+| 2023-05-15 | []() | []() |  |
+| 2023-05-16 | []() | []() |  |
 
 </div>
 </details>
