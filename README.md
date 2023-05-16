@@ -128,8 +128,13 @@ c. 풀이 예시
  2023-05-10 | [줄세우기](https://www.acmicpc.net/problem/2631) | [예산](https://www.acmicpc.net/problem/2512) | [문제 풀이](./baekjoon/230510) |
 | 2023-05-11 | [돌다리 건너기](https://www.acmicpc.net/problem/2602) | [숫자 야구](https://www.acmicpc.net/problem/2503) | [문제 풀이](./baekjoon/230511) |
 | 2023-05-12 | [제곱수 찾기](https://www.acmicpc.net/problem/1025) | [감소하는 수](https://www.acmicpc.net/problem/1038) | [문제 풀이](./baekjoon/230512) |
-| 2023-05-15 | [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) | [노드사이의 거리](https://www.acmicpc.net/problem/1240) | [문제 풀이](./baekjoon/230515)  |
-| 2023-05-16 | []() | []() |  |
+| 2023-05-15 | [노드사이의 거리](https://www.acmicpc.net/problem/1240) |  [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) |[문제 풀이](./baekjoon/230515)  |
+| 2023-05-16 | [강의실](https://www.acmicpc.net/problem/1374) | [거의 소수](https://www.acmicpc.net/problem/1456) | [문제 풀이](./baekjoon/230516) |
+| 2023-05-17 | []() | []() |  |
+| 2023-05-18 | []() | []() |  |
+| 2023-05-19 | []() | []() |  |
+| 2023-05-22 | []() | []() |  |
+| 2023-05-23 | []() | []() |  |
 
 </div>
 </details>
