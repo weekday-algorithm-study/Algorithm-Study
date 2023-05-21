@@ -132,7 +132,7 @@ c. 풀이 예시
 | 2023-05-16 | [강의실](https://www.acmicpc.net/problem/1374) | [거의 소수](https://www.acmicpc.net/problem/1456) | [문제 풀이](./baekjoon/230516) |
 | 2023-05-17 | [부분 삼각 수열](https://www.acmicpc.net/problem/1548) | [도미노 찾기](https://www.acmicpc.net/problem/1553) | [문제 풀이](./baekjoon/230517) |
 | 2023-05-18 | [도로의 개수](https://www.acmicpc.net/problem/1577) | [골목 대장 호석 - 기능성](https://www.acmicpc.net/problem/20168) | [문제 풀이](./baekjoon/230518) |
-| 2023-05-19 | []() | []() |  |
+| 2023-05-19 | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) | [암호 만들기](https://www.acmicpc.net/problem/1759) | [문제 풀이](./baekjoon/230519) |
 | 2023-05-22 | []() | []() |  |
 | 2023-05-23 | []() | []() |  |
 
