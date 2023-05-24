@@ -120,7 +120,7 @@ c. 풀이 예시
 
 
 <details>
-<summary> 2023-05-10 ~ </summary>
+<summary> 2023-05-10 ~ 2023-05-23 </summary>
 <div markdown="1">
 
 | 날짜 | 문제1 | 문제2 | 문제 풀이 |
@@ -133,8 +133,21 @@ c. 풀이 예시
 | 2023-05-17 | [부분 삼각 수열](https://www.acmicpc.net/problem/1548) | [도미노 찾기](https://www.acmicpc.net/problem/1553) | [문제 풀이](./baekjoon/230517) |
 | 2023-05-18 | [도로의 개수](https://www.acmicpc.net/problem/1577) | [골목 대장 호석 - 기능성](https://www.acmicpc.net/problem/20168) | [문제 풀이](./baekjoon/230518) |
 | 2023-05-19 | [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) | [암호 만들기](https://www.acmicpc.net/problem/1759) | [문제 풀이](./baekjoon/230519) |
-| 2023-05-22 | []() | []() |  |
-| 2023-05-23 | []() | []() |  |
+| 2023-05-22 | [유닛 이동시키기](https://www.acmicpc.net/problem/2194) | [센서](https://www.acmicpc.net/problem/2212) | [문제 풀이](./baekjoon/230522) |
+| 2023-05-23 | [합분해](https://www.acmicpc.net/problem/2225) | [알파벳](https://www.acmicpc.net/problem/1987) | [문제 풀이](./baekjoon/230523) |
 
 </div>
+</details>
+
+
+<details>
+<summary> 2023-05-24 ~  </summary>
+<div markdown="1">
+
+| 날짜 | 문제1 | 문제2 | 문제 풀이 |
+| --- | --- | --- | --- |
+| 2023-05-24 | [조 짜기](https://www.acmicpc.net/problem/2229) | [수 고르기](https://www.acmicpc.net/problem/2230) | [문제 풀이](./baekjoon/230524) |
+| 2023-05-25 | []() | []() | [문제 풀이](./baekjoon/230525) |
+
+ </div>
 </details>
