@@ -149,7 +149,7 @@ c. 풀이 예시
 | 2023-05-24 | [조 짜기](https://www.acmicpc.net/problem/2229) | [수 고르기](https://www.acmicpc.net/problem/2230) | [문제 풀이](./baekjoon/230524) |
 | 2023-05-25 | [동전 1](https://www.acmicpc.net/problem/2293) | [동전 2](https://www.acmicpc.net/problem/2294) | [문제 풀이](./baekjoon/230525) |
 | 2023-05-26 | [사다리 타기](https://www.acmicpc.net/problem/2469) | [두 용액](https://www.acmicpc.net/problem/2470) | [문제 풀이](./baekjoon/230526) |
-| 2023-05-29 | []() | []() | [문제 풀이](./baekjoon/230529) |
-
+| 2023-05-29 | [강의실 배정](https://www.acmicpc.net/problem/11000) | [동전 게임](https://www.acmicpc.net/problem/9079) | [문제 풀이](./baekjoon/230529) |
+| 2023-05-30 | []() | []() | [문제 풀이](./baekjoon/230530) |
  </div>
 </details>
